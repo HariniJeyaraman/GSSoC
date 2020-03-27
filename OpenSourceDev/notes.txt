@@ -15,3 +15,7 @@ git log displays all commits made in the project
 
 Removing a file
 git rm -f file_name
+
+DIFFERENCE BETWEEN git reset and git revert :
+
+https://www.pixelstech.net/article/1549115148-git-reset-vs-git-revert
