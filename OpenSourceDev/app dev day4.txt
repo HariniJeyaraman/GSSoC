@@ -1,0 +1,3 @@
+Unit test - > every method requires unit testing
+View is a parent class
+To populate views like spinner -> we need to use Adapter Class 
