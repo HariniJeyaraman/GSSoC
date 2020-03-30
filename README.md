@@ -29,4 +29,7 @@ Basic writing and formatting syntax for Github
 
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
+More Open Source Opportunities
+
+https://creatiffish.com/blog/open-source/programs-like-google-summer-of-code/
 
