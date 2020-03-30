@@ -33,3 +33,6 @@ More Open Source Opportunities
 
 https://creatiffish.com/blog/open-source/programs-like-google-summer-of-code/
 
+Fossia Codeheat
+
+https://codeheat.org/#timeline
