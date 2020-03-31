@@ -41,3 +41,8 @@ More OpenSource Programs
 
 https://github.com/tapaswenipathak/Open-Source-Programs
 
+Google Design Sprint
+
+https://medium.com/productmanagement101/design-sprints-at-google-85ff62fed5f8
+
+
