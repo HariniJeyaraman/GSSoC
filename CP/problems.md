@@ -54,3 +54,16 @@ https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tut
 
 5) https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
 
+More on Stacks and Queues
+
+1) https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
+
+2) https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/
+
+3) https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/
+
+4) https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/
+
+5) https://www.hackerrank.com/challenges/queue-using-two-stacks
+
+6) https://www.hackerrank.com/challenges/down-to-zero-ii
