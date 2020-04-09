@@ -67,3 +67,24 @@ More on Stacks and Queues
 5) https://www.hackerrank.com/challenges/queue-using-two-stacks
 
 6) https://www.hackerrank.com/challenges/down-to-zero-ii
+
+Day 4:
+
+https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
+
+https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/tutorial/
+
+HashMaps Problems
+
+1) https://www.geeksforgeeks.org/frequent-element-array/
+
+2) https://www.geeksforgeeks.org/count-pairs-with-given-sum/
+
+3) https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+
+Heaps/Priority Queues Problems
+
+1) https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/
+
+2) https://www.hackerrank.com/challenges/find-the-running-median/problem
+
