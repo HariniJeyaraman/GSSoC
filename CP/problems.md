@@ -88,3 +88,17 @@ Heaps/Priority Queues Problems
 
 2) https://www.hackerrank.com/challenges/find-the-running-median/problem
 
+Day 5 :
+Greedy Algorithms
+
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+
+1) https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/
+
+2) https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/
+
+3) https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/
+
+4) https://www.geeksforgeeks.org/job-sequencing-problem/
+
+5) https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/
