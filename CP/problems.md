@@ -2,6 +2,8 @@
 
 Day 1
 
+https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+
 1) https://www.codechef.com/problems/LECANDY
 
 2) https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/
