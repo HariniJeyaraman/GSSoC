@@ -104,3 +104,16 @@ https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorith
 4) https://www.geeksforgeeks.org/job-sequencing-problem/
 
 5) https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/
+
+Day 6 : 
+Dynamic Programming
+
+1) https://www.geeksforgeeks.org/minimum-steps-minimize-n-per-given-condition/
+
+2) https://leetcode.com/problems/house-robber/
+
+3) https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+
+4) https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
+5) geeksforgeeks.org/coin-change-dp-7/
