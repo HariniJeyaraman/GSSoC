@@ -23,6 +23,11 @@ int lonely_integer1(std::vector<int> a)
 }
 
 //Using bit manipulation
+/*
+a^b^a=(a^a)^b
+     =0^b
+     =b (lonely integer)
+*/
 int lonely_integer2(std::vector<int> a)
 {
     int result=0;
